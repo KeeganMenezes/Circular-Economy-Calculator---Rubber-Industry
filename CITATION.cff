@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Circular Economy Calculator - Rubber Industry
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Keegan
+    family-names: Menezes
+repository-code: >-
+  https://github.com/KeeganMenezes/Circular-Economy-Calculator---Rubber-Industry.git
+url: >-
+  https://circular-economy-calculator-rubber-industry.streamlit.app/
+date-released: '2024-09-03'
